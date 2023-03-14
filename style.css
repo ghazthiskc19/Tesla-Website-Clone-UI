@@ -125,6 +125,7 @@ nav svg.logo {
 
 nav .logo-section {
     display: flex;
+    position: relative;
     justify-content: center;
 }
 nav .logo-container {
@@ -182,6 +183,26 @@ nav .hover-effect.hover-transition{
 
 nav .model-container {
     width: 100%;
+}
+
+.skip-navigation {
+    position: absolute;
+    bottom: -50px;
+    padding: 7px;
+    border-radius: 25px;
+    outline: 2px solid #544f4f;
+    transform: translateX(-200%);
+    overflow: hidden;
+}
+
+.skip-navigation p {
+    font-size: 11px;
+    text-align: center;
+    line-height: 12px;
+}
+
+a.skip-navigation:focus, .skip-navigation:focus-visible {
+    transform: translateX(0);
 }
 /* Navbar Section -- End */
 
