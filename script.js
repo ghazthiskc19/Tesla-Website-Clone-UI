@@ -60,10 +60,13 @@ container.style.height = `${imageContainer.clientHeight}px`
             hoverEffect.style.height = `${button.target.clientHeight}px`;
             hoverEffect.style.width = `${button.target.clientWidth}px`;
             hoverEffect.style.left = `${button.target.offsetLeft}px`;
-            hoverEffect.classList.add("hover-opacity-transition");
+            hoverEffect.style.opacity = `1`;
+            
+            hoverEffect.classList.add("hover-transition");
         })
         menu.addEventListener("mouseout", ()=>{
-            hoverEffect.classList.remove("hover-opacity-transition");
+            hoverEffect.style.opacity = `0`;
+            hoverEffect.classList.remove("hover-transition");
         })
     })
 

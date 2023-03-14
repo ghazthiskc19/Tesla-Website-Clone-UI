@@ -8,6 +8,17 @@ Di project ini saya belajar banyak hal, selain dapat merefresh kembali ingatan s
 
 Ini merupakan project website clone pertama dan project ini akan terus berlanjut untuk membuat clone dari website webiste yang populer. Mungkin seiring dengan saya terus belajar dan berkarya, saya akan membuat website dengan lebih rapih dan dengan struktur yang jelas.
 
+# Page Overview
+
+## 1. 
+
+# Explaiation Section
+
+### 1. What tools i use to create this website?
+
+### 2. 
+
+
 ## About Me
 Muhammad Ghazy Humaidi, biasa di panggil Ghazy, orang ini tinggal di bandung dan belajar di garut karena saya pesantren dan saya adalah santri dari Pondok Pesantren Darul Arqam Muhammadiyah Daerah Garut dan duduk di kelas 11 / 2 SMA...
 

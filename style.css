@@ -173,12 +173,11 @@ nav .hover-effect {
     visibility: visible;
     display: flex;
     z-index: -1;
-    transition: left .5s cubic-bezier(0.75,0,0,1) .5s, opacity .5s 0s;
+    transition: left .5s cubic-bezier(0.75,0,0,1) .5s, opacity .5s 0s, width .5s, height .5s;
     opacity: 0;
 }
-nav .hover-effect.hover-opacity-transition{
-    opacity : 1;
-    transition : left .5s cubic-bezier(0.75,0,0,1), opacity .5s .5s, width .1s, height .1s;
+nav .hover-effect.hover-transition{
+    transition: left .5s cubic-bezier(0.75,0,0,1), opacity .5s .5s, width .5s, height .5s;
 }
 
 nav .model-container {
