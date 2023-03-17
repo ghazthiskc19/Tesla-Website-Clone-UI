@@ -29,10 +29,10 @@ This is the first project website clone and this project will be continued to cr
        - #### Device Mode
            By using this tools, we can easily create responsive web designs. Besides that, this tool also has a feature to display the media queries that we have created. To know more about this tool you can [click this link](https://developer.chrome.com/docs/devtools/device-mode/)
 
-### 2. How I Create Scrolling Effect on My Clone Website
-For create effect that if we scrolling and that will stop in certain position, we can use property css called CSS Scroll Snap, to learn more about snap scrolling in CSS you can [click this link](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
+2. ## How I Create Scrolling Effect on My Clone Website
+    For create effect that if we scrolling and that will stop in certain position, we can use property css called CSS Scroll Snap, to learn more about snap scrolling in CSS you can [click this link](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
 
-For create fade effect on text and button, we should get wrapper of all them that is main section, and we can use web API method called getBoundingClientRect() to get the x position of main section, create offset value you want (the greater the offset value, the longer the fade effect will be given) and calculate them with browser viewport to get opacity value that will be given every we scroll to main section. Besides that, you can use this effect for change title of every cars with same method like you get the opacity value. to know more about getBoundingClientRect() method you can [click this link](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+    For create fade effect on text and button, we should get wrapper of all them that is main section, and we can use web API method called getBoundingClientRect() to get the x position of main section, create offset value you want (the greater the offset value, the longer the fade effect will be given) and calculate them with browser viewport to get opacity value that will be given every we scroll to main section. Besides that, you can use this effect for change title of every cars with same method like you get the opacity value. to know more about getBoundingClientRect() method you can [click this link](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
 
 
 # Page Screenshoot
