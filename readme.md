@@ -11,23 +11,23 @@ This is the first project website clone and this project will be continued to cr
 # Explaiation Section
 1. ## What tools i use to create this website?
 
-    1. ### whatFont
-    To Getting what font type in the original website, i using extension name is whatFont. this extension will display what font type is using in a website. If you interesting with this extension you can [click this link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) to download the extension.
+    - ### whatFont
+       To Getting what font type in the original website, i using extension name is whatFont. this extension will display what font type is using in a website. If you interesting with this extension you can [click this link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) to download the extension.
 
-    2. ### colorZilla
-    To get the color of button, or something else, i using extension name is colorZilla. if you using this extension and hover it to elemen what you want to get the color, this extension will copy the color object based on what you hovering it. If you interesting with this extension you can [click this link](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) to download the extension
+    - ### colorZilla
+       To get the color of button, or something else, i using extension name is colorZilla. if you using this extension and hover it to elemen what you want to get the color, this extension will copy the color object based on what you hovering it. If you interesting with this extension you can [click this link](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) to download the extension
 
-    3. ### DevTools - Google Chrome (built-in web developer tools)
-    To know more tool and feature on DevTools you can [click this link](https://developer.chrome.com/docs/devtools/).
+    - ### DevTools - Google Chrome (built-in web developer tools)
+       To know more tool and feature on DevTools you can [click this link](https://developer.chrome.com/docs/devtools/).
 
-    - #### Animation Tools
-        i using tool from google devTools, the name is Animation Tools. This usefull tools for help you to knowing animation duration, animation delay, and animation timing function. and the working of this extension is by detecting animation on the website and chart will be appear displaying the element has been animated and information about animation from the element. this tools is very helpful for me to crate hover effect on navbar. to know how to using this tools you can  [click this link](https://developer.chrome.com/docs/devtools/css/animations/)
+       - #### Animation Tools
+           i using tool from google devTools, the name is Animation Tools. This usefull tools for help you to knowing animation duration, animation delay, and animation timing function. and the working of this extension is by detecting animation on the website and chart will be appear displaying the element has been animated and information about animation from the element. this tools is very helpful for me to crate hover effect on navbar. to know how to using this tools you can  [click this link](https://developer.chrome.com/docs/devtools/css/animations/)
 
-    - #### Workspace Project
-        I to edit in realtime and can be saved at any time, I connect the directory of my project files with the devtools workspace so I don't have to go back and forth to edit the code in the code editor and can see the results in realtime. It's super usefull tool can save you a lot of time for coding dan give you faster time for getting right value. If you want to know more about this tool you can [click this link](https://developer.chrome.com/docs/devtools/workspaces/)
+       - #### Workspace Project
+           I to edit in realtime and can be saved at any time, I connect the directory of my project files with the devtools workspace so I don't have to go back and forth to edit the code in the code editor and can see the results in realtime. It's super usefull tool can save you a lot of time for coding dan give you faster time for getting right value. If you want to know more about this tool you can [click this link](https://developer.chrome.com/docs/devtools/workspaces/)
 
-    - #### Device Mode
-        By using this tools, we can easily create responsive web designs. Besides that, this tool also has a feature to display the media queries that we have created. To know more about this tool you can [click this link](https://developer.chrome.com/docs/devtools/device-mode/)
+       - #### Device Mode
+           By using this tools, we can easily create responsive web designs. Besides that, this tool also has a feature to display the media queries that we have created. To know more about this tool you can [click this link](https://developer.chrome.com/docs/devtools/device-mode/)
 
 ### 2. How I Create Scrolling Effect on My Clone Website
 For create effect that if we scrolling and that will stop in certain position, we can use property css called CSS Scroll Snap, to learn more about snap scrolling in CSS you can [click this link](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
