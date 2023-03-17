@@ -43,6 +43,9 @@ let container = selectElement(`.container`);
     let overlay = selectElement(".hamburger-overlay");
     let buttonSymbol = selectElement(".button-symbol");
 
+// Getting date and given to footer
+    let spanDate = selectElement(".footer-li a span");
+    spanDate.innerHTML = `${new Date().getFullYear()}`;
 
 // Biar Main yang ada di dalam container bisa scroll sesuai dengan parent Elementnya
 container.style.height = `${imageContainer.clientHeight}px`
