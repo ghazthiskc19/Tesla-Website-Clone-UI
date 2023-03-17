@@ -78,5 +78,5 @@ Muhammad Ghazy Humaidi, you can call me Ghazy, born and live in Bandung, Indones
 [![Youtube](https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMjvvnOagbQqOBmXljNjIFw)
 
 ## Contact Me
-### - ![Email](https://img.shields.io/badge/Email-muhammad.ghazy.hum@gmail.com-orange?style=flat-squarel&logoColor=white)
-### - ![Contact](https://img.shields.io/badge/Contact-+62--822--2344--2849-red?style=flat-squarel&logoColor=white)
+- ![Email](https://img.shields.io/badge/Email-muhammad.ghazy.hum@gmail.com-orange?style=flat-squarel&logoColor=white)
+- ![Contact](https://img.shields.io/badge/Contact-+62--822--2344--2849-red?style=flat-squarel&logoColor=white)
